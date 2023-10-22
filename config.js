@@ -24,7 +24,7 @@ module.exports = {
   sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
   botname: process.env.BOT_NAME || 'sᴜʜᴀɪʟ-ᴍᴅ',
   botbgm: process.env.BOT_BGM || 'false',
-  ownername:  process.env.OWNER_NAME || `It'x Suhail`,
+  ownername:  process.env.OWNER_NAME || `Lord itadori🖤`,
   author:  process.env.PACK_AUTHER || '',
   errorChat : process.env.ERROR_CHAT|| '', // put 'chat' here to send error in chat ,where it accures
   read_status : process.env.AUTO_READ_STATUS || 'false',
@@ -36,7 +36,7 @@ module.exports = {
   antifake : 'null', // process.env.FAKE_COUNTRY_CODE ||'212',
   readmessage: process.env.READ_MESSAGE || 'false',   //  | 'false' | 'true' | 
   readcmds : process.env.READ_COMMANDS || 'false',    //  | 'false' | 'true' | 
-  HANDLERS: process.env.PREFIX || ',',
+  HANDLERS: process.env.PREFIX || '!',
   warncount : process.env.WARN_COUNT || 3,
   disablepm: process.env.DISABLE_PM || "false",   
   MsgsInLog:process.env.MSGS_IN_LOG ||'false',
