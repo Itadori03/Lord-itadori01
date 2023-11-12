@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="LORD ITADORI " height="300" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F371%2F550%2FHD-wallpaper-sukuna-super-jujutsukaisen-god.jpg&tbnid=Y80YDcqep4wX0M&vet=10CB0QMyh2ahcKEwiY3fXpmr-CAxUAAAAAHQAAAAAQAg..i&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-vqrnf&docid=aDUObT8ynebFjM&w=800&h=1613&q=LORD%20ITADORI&ved=0CB0QMyh2ahcKEwiY3fXpmr-CAxUAAAAAHQAAAAAQAg">
+    <img alt="LORD ITADORI " height="300" src="![VSMJ1935](https://github.com/Itadori03/Lord-itadori01/assets/146566592/38af5413-f203-43da-9219-4e9c66a14338)
+">
   </a>
 </p>
 
